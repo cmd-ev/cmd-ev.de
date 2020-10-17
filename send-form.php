@@ -16,9 +16,8 @@ $forms = array(
         ),
         "notallowed" => array(1, 3, 5, 7, 9, 11),
         "required" => array(2, 4, 6, 8, 10, 12),
-        //"receiver" => 'kontakt@cmd-ev.de',
-	"receiver" => 'guido.schmitz@cmd-ev.de',
-        "subject" => 'Beitrittsantrag'
+        "receiver" => 'kontakt@cmd-ev.de',
+	"subject" => 'Beitrittsantrag'
     ),
     "kontakt" => array(
         "fields" => array(
@@ -28,9 +27,8 @@ $forms = array(
         ),
         "notallowed" => array(1, 3, 5),
         "required" => array(2, 4),
-        //"receiver" => 'kontakt@cmd-ev.de',
-	"receiver" => 'guido.schmitz@cmd-ev.de',
-        "subject" => 'Kontaktanfrage'
+        "receiver" => 'kontakt@cmd-ev.de',
+	"subject" => 'Kontaktanfrage'
     )
 );
 
