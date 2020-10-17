@@ -20,3 +20,9 @@ services:
       traefik.http.routers.cmdsitesecure.tls.certresolver: "le"
       traefik.http.routers.cmdsitesecure.entrypoints: "websecure"
       traefik.http.routers.cmdsitesecure.middlewares: "add-sts-with-subdomains@file"
+
+networks:
+  default:
+    external:
+      name: web
+
