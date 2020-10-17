@@ -15,9 +15,9 @@ an interessierte Bastler richten.
 ## Pi and More
 
 Derzeitige hauptsächliche Betätigung des Vereins ist die Ausrichtung
-von [Pi and More](http://www.piandmore.de/). Diese Veranstaltung mit
+von [Pi and More](https://www.piandmore.de/). Diese Veranstaltung mit
 Vorträgen und Workshops dreht sich rund um den
-[Raspberry Pi](http://de.wikipedia.org/wiki/Raspberry_Pi) und andere
+[Raspberry Pi](https://de.wikipedia.org/wiki/Raspberry_Pi) und andere
 kleine Computer.
 
 ## Über den Tellerrand
@@ -25,7 +25,7 @@ kleine Computer.
 Der Raspberry Pi ist nur ein Beispiel für eine Entwicklung, die in den
 nächsten Jahren mehr und mehr unser Leben bestimmen wird. Viele
 kleine, eingebettete Systeme werden das
-["Internet der Dinge"](http://de.wikipedia.org/wiki/Internet_der_Dinge)
+["Internet der Dinge"](https://de.wikipedia.org/wiki/Internet_der_Dinge)
 immer mehr zur Realität werden lassen. Der CMD e.V. hat es sich zum
 Ziel gesetzt, dieser Entwicklung auch in den Veranstaltungen Rechnung
 zu tragen.
@@ -38,7 +38,7 @@ Im Juni 2019 starten wir eine neue Veranstaltungsreihe: Das [SecCampCologne](htt
 
 Darüber hinaus engagieren sich Mitglieder des CMD e.V. auch in der
 Computerecke des
-["Repair Café Trier"](http://repaircafetrier.blogspot.de/), in welchem
+["Repair Café Trier"](https://repaircafe-trier.de/), in welchem
 einmal monatlich in gemütlicher Atmosphäre bei Kaffee und Kuchen Dinge
 repariert werden - seien es Kleidungsstücke, Möbel, Fahrräder,
 elektrische Geräte oder eben Computer.
