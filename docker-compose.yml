@@ -16,7 +16,7 @@ services:
       traefik.http.routers.cmdsite.rule: "Host(`cmd-ev.de`) || Host(`www.cmd-ev.de`)"
       traefik.http.routers.cmdsite.entrypoints: "web"
       traefik.http.routers.cmdsite.middlewares: "redirect-to-https@file, add-sts-with-subdomains@file"
-      traefik.http.routers.cmdsitesecure.rule: "Host(`cmd-ev.de`) || Host(`cmdsite.cmd-ev.de`)"
+      traefik.http.routers.cmdsitesecure.rule: "Host(`cmd-ev.de`) || Host(`www.cmd-ev.de`)"
       traefik.http.routers.cmdsitesecure.tls.certresolver: "le"
       traefik.http.routers.cmdsitesecure.entrypoints: "websecure"
       traefik.http.routers.cmdsitesecure.middlewares: "add-sts-with-subdomains@file"
